@@ -5,8 +5,8 @@ const videoGrid = document.getElementById('video-grid')
         port: '3002'
     })*/
 const myPeer = new Peer(undefined, {
-    host: 'https://peerjs-erdo.herokuapp.com/',
-    port: '9000'
+    host: 'peerjs-erdo.herokuapp.com',
+    port: '443'
 })
 const myVideo = document.createElement('video')
 myVideo.muted = true
