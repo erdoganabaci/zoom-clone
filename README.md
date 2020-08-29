@@ -1,6 +1,6 @@
 # Zoom Clone
 
-### [Demo](https://covid19-nodejs-demo.herokuapp.com/)
+### [Demo](https://video-chat-meet.herokuapp.com/)
 
 Socket.io and peerjs deployed video conference same link
 
